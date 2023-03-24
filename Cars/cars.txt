@@ -1,0 +1,120 @@
+
+Car ID: 3
+Make: Ferrari
+Model: F-40
+Year: 1996
+Horsepower: 264
+Kilometers: 64257
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 4
+Make: Audi
+Model: A4
+Year: 2016
+Horsepower: 264
+Kilometers: 265784
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 5
+Make: Audi
+Model: RS4
+Year: 2006
+Horsepower: 364
+Kilometers: 164287
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 6
+Make: Mercedes-Benz
+Model: A190
+Year: 2018
+Horsepower: 185
+Kilometers: 165248
+Fuel: diesel
+Trasmission: manual
+Was in accident? no
+
+Car ID: 7
+Make: BMW
+Model: 3-series
+Year: 2015
+Horsepower: 248
+Kilometers: 124872
+Fuel: diesel
+Trasmission: manual
+Was in accident? no
+
+Car ID: 8
+Make: Maserati
+Model: Ghibli
+Year: 2015
+Horsepower: 218
+Kilometers: 134526
+Fuel: gas
+Trasmission: automatic
+Was in accident? no
+
+Car ID: 9
+Make: Maserati
+Model: Grecale
+Year: 2022
+Horsepower: 256
+Kilometers: 36120
+Fuel: gas
+Trasmission: automatic
+Was in accident? no
+
+Car ID: 10
+Make: Dacia
+Model: Duster
+Year: 2015
+Horsepower: 105
+Kilometers: 83014
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 11
+Make: Renault
+Model: Clio
+Year: 2016
+Horsepower: 75
+Kilometers: 62403
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 12
+Make: Citroen
+Model: C4
+Year: 2016
+Horsepower: 105
+Kilometers: 84304
+Fuel: gas
+Trasmission: manual
+Was in accident? no
+
+Car ID: 13
+Make: Porsche
+Model: Tycan
+Year: 2016
+Horsepower: 348
+Kilometers: 576174
+Fuel: electric
+Trasmission: automatic
+Was in accident? no
+
+Car ID: 1
+Make: Porsche
+Model: 911
+Year: 2020
+Horsepower: 642
+Kilometers: 32157
+Fuel: gas
+Trasmission: manual
+Was in accident? no
